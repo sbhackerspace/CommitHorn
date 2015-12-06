@@ -1,0 +1,9 @@
+.cproject
+.project
+.settings/*
+out/*
+src/WifiNetworkData.h
+SecretKey.py
+*.pyc
+*.swp
+
